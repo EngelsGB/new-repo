@@ -7,6 +7,6 @@ My name is Engels.
 
 ``` js
 const char = (sentence) {
-    console.log(sentence);
+    console.log("emoji waos");
 }
 ```
